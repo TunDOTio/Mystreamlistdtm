@@ -1,2 +1,5 @@
-strea,list
+streamlist
+scikit-learn
+numpy
+pandas
 
